@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Software Engineering Roadmaps"
+                 start-page="Master-Multithreading-in-Java.md">
+
+    <toc-element topic="roadmap-multithreading.md"/>
+    <toc-element topic="Master-Multithreading-in-Java.md">
+        <toc-element topic="Introduction.md">
+            <toc-element topic="Core-Concepts.md"/>
+            <toc-element topic="Key-APIs-and-Utilities.md"/>
+            <toc-element topic="Advanced-Topics.md"/>
+            <toc-element topic="Empty-MD-Topic.md"/>
+        </toc-element>
+        <toc-element topic="Roadmap-Multithreading-in-Java.md">
+            <toc-element topic="Month-1.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Default-topic.md"/>
+</instance-profile>
