@@ -12,10 +12,12 @@
             <toc-element topic="Core-Concepts.md"/>
             <toc-element topic="Key-APIs-and-Utilities.md"/>
             <toc-element topic="Advanced-Topics.md"/>
-            <toc-element topic="Empty-MD-Topic.md"/>
+            <toc-element topic="Best-Practices.md"/>
         </toc-element>
         <toc-element topic="Roadmap-Multithreading-in-Java.md">
-            <toc-element topic="Month-1.md"/>
+            <toc-element topic="Month-1.md">
+            </toc-element>
+            <toc-element topic="Month-2.md"/>
         </toc-element>
     </toc-element>
     <toc-element topic="Default-topic.md"/>

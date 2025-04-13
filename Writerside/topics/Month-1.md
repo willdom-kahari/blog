@@ -50,6 +50,11 @@
     - [Apache Kafka’s](https://github.com/apache/kafka) Producer-Consumer Model (high-level study)
     - [Java’s](https://hg.openjdk.org/jdk8/jdk8/jdk/file/tip/src/share/classes/java/util/concurrent/ArrayBlockingQueue.java) ArrayBlockingQueue
 
+- <b>Bonus Challenges</b>
+  1. Thread Pool Simulator - Implement a basic thread pool with a fixed number of worker threads.
+  2. Readers-Writers Problem - Multiple readers, single writer (use synchronized and fairness).
+  3. Dining Philosophers Problem - Avoid deadlocks using timeouts or lock ordering.
+
 📚 <b>Resources:</b>
 - Oracle’s Java Threads Tutorial
 - Java Concurrency in Practice (Ch. 1–5)
