@@ -1,3 +1,1 @@
 # Day 1
-
-Start typing here...

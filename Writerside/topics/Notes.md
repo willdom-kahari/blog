@@ -2,7 +2,7 @@
 
 ```mermaid
 mindmap
-    root[Thread]
+    root((Thread))
         id{{Thread Safety}}
             id(Synchronisation)
                 id))synchronized keyword((
@@ -15,8 +15,9 @@ mindmap
                 id))Postconditions((
         id{{Atomicity}}
             id(Race Conditions)
-                id))check then act((
-                id))read modify write((
+                id[Compound Actions]
+                    id))check then act((
+                    id))read modify write((
         id{{Locking}}
         id{{Guarding State with Locks}}
         id{{Liveness and Performance}}
