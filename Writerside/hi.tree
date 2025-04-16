@@ -21,8 +21,8 @@
         </toc-element>
     </toc-element>
     <toc-element topic="Notes.md">
-        <toc-element topic="Day-1.md"/>
         <toc-element topic="Starting-a-Thread.md"/>
+        <toc-element topic="Thread-Lifecycle.md"/>
     </toc-element>
     <toc-element topic="Default-topic.md"/>
 </instance-profile>
