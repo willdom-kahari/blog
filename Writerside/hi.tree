@@ -23,6 +23,7 @@
     <toc-element topic="Notes.md">
         <toc-element topic="Starting-a-Thread.md"/>
         <toc-element topic="Thread-Lifecycle.md"/>
+        <toc-element topic="Joining-Threads.md"/>
     </toc-element>
     <toc-element topic="Default-topic.md"/>
 </instance-profile>

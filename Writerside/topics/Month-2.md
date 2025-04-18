@@ -76,7 +76,7 @@
         Inject thread-safety bugs (e.g., race conditions) and practice fixing them.
   
 📚 <b>Resources:</b>
-      - Java java.util.concurrent Javadocs
-      - Java Concurrency in Practice (Ch. 5–6)
-      - Effective Java (Concurrency Items)
+- Java java.util.concurrent Javadocs
+- Java Concurrency in Practice (Ch. 5–6)
+- Effective Java (Concurrency Items)
 
