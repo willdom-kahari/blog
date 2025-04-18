@@ -19,13 +19,13 @@
             </toc-element>
             <toc-element topic="Month-2.md"/>
         </toc-element>
-    </toc-element>
-    <toc-element topic="Notes.md">
-        <toc-element topic="Starting-a-Thread.md"/>
-        <toc-element topic="Thread-Lifecycle.md"/>
-        <toc-element topic="Joining-Threads.md"/>
-        <toc-element topic="Sleeping-Threads.md"/>
-        <toc-element topic="Thread-Interrupts.md"/>
+        <toc-element topic="Notes.md">
+            <toc-element topic="Starting-a-Thread.md"/>
+            <toc-element topic="Thread-Lifecycle.md"/>
+            <toc-element topic="Joining-Threads.md"/>
+            <toc-element topic="Sleeping-Threads.md"/>
+            <toc-element topic="Thread-Interrupts.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="Default-topic.md"/>
 </instance-profile>
