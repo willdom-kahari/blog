@@ -2,8 +2,8 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="hi"
-                 name="Software Engineering Roadmaps"
+<instance-profile id="seij"
+                 name="Software Engineering In Java"
                  start-page="Master-Multithreading-in-Java.md">
 
     <toc-element topic="roadmap-multithreading.md"/>

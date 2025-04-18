@@ -9,7 +9,7 @@
         <include-in-head>additional-styles.html</include-in-head>
     </variables>
 
-    <build-profile instance="hi">
+    <build-profile instance="seij">
         <variables>
             <noindex-content>false</noindex-content>
         </variables>
