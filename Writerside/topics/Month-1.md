@@ -10,7 +10,7 @@
 
 - <b>Code Katas:</b>
     - Create 10 threads, each print 1–100 sequentially (observe interleaving).
-    - Make Thread-2 wait for Thread-1 to finish using join().(thread coordination) 
+    - Make Thread-2 wait for Thread-1 to finish using `join()` (thread coordination) 
     - Create a thread that sleeps but can be interrupted.
 
 - <b>Projects to Build:</b> 
